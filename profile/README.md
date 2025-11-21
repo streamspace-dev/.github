@@ -95,8 +95,6 @@ Perfect for:
 - **[streamspace-plugins](https://github.com/streamspace-dev/streamspace-plugins)** - Official and community plugins
 - **[streamspace-templates](https://github.com/streamspace-dev/streamspace-templates)** - 200+ application templates
 
-### Enterprise (Private)
-- **[streamspace-saas](https://github.com/streamspace-dev/streamspace-saas)** - Managed hosting infrastructure
 
 ## 🎯 Current Status
 
